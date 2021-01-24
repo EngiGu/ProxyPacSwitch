@@ -1,0 +1,1 @@
+reg add "hkcu\software\microsoft\windows\currentversion\internet settings" /v AutoConfigURL /t REG_SZ /d "http://127.0.0.1:12345/pac" /f
